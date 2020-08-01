@@ -1,0 +1,11 @@
+C:\Users\corra\source\repos\ianog\IntermediateC-\FirstApp\FirstApp1\bin\Debug\FirstApp1.exe.config
+C:\Users\corra\source\repos\ianog\IntermediateC-\FirstApp\FirstApp1\bin\Debug\FirstApp1.exe
+C:\Users\corra\source\repos\ianog\IntermediateC-\FirstApp\FirstApp1\bin\Debug\FirstApp1.pdb
+C:\Users\corra\source\repos\ianog\IntermediateC-\FirstApp\FirstApp1\obj\Debug\FirstApp1.csprojAssemblyReference.cache
+C:\Users\corra\source\repos\ianog\IntermediateC-\FirstApp\FirstApp1\obj\Debug\FirstApp1.Form1.resources
+C:\Users\corra\source\repos\ianog\IntermediateC-\FirstApp\FirstApp1\obj\Debug\FirstApp1.Properties.Resources.resources
+C:\Users\corra\source\repos\ianog\IntermediateC-\FirstApp\FirstApp1\obj\Debug\FirstApp1.csproj.GenerateResource.cache
+C:\Users\corra\source\repos\ianog\IntermediateC-\FirstApp\FirstApp1\obj\Debug\FirstApp1.csproj.CoreCompileInputs.cache
+C:\Users\corra\source\repos\ianog\IntermediateC-\FirstApp\FirstApp1\obj\Debug\FirstApp1.exe
+C:\Users\corra\source\repos\ianog\IntermediateC-\FirstApp\FirstApp1\obj\Debug\FirstApp1.pdb
+C:\Users\corra\source\repos\ianog\IntermediateC-\FirstApp\FirstApp1\obj\Debug\FirstApp1.Form2.resources
